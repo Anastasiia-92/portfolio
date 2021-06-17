@@ -1,0 +1,11 @@
+.wrapper{
+    background-color: #c9f4ff;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+}
+.headerContainer{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}

@@ -1,0 +1,31 @@
+.wrapper {
+    background-color: #f3fca2;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.worksContainer {
+    justify-content: space-between;
+    align-items: center;
+    min-height: 80vh;
+    border: 1px solid;
+    min-width: 80%;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.title {
+    text-align: center;
+    padding: 15px;
+    background-color: #afafaf;
+}
+
+.worksBlock {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
+}
